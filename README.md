@@ -2,7 +2,7 @@
 - 👀 I’m interested in hardware, linux kernel, big data, machine learning, math, cracking
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <master@madcat.cc>
+- 📫 How to reach me <steelm@madcat.cc>
 
 <!---
 sTeeLM/sTeeLM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
