@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sTeeLM
 - 👀 I’m interested in hardware, linux kernel, big data, machine learning, math, cracking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning economics, and financial managment
 - 📫 How to reach me <steelm@madcat.cc>
 
 <!---
